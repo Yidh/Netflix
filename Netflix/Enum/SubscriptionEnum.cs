@@ -2,9 +2,8 @@
 {
    public enum SubscriptionEnum
     {
-
         trial,
-        gold, 
-        Premium, 
+        gold,
+        Premium,
     }
 }
